@@ -1,4 +1,4 @@
-![Masterhead](https://blog.penjee.com/wp-content/uploads/2015/04/binary-and-linear-search-animations.gif)
+![Masterhead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Vinit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="hhttps://wifflegif.com/gifs/364679-programming-processing-gif"/>
