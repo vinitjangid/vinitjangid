@@ -1,7 +1,7 @@
-![Masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![Masterhead](https://blog.penjee.com/wp-content/uploads/2015/04/binary-and-linear-search-animations.gif)
 <h1 align="center">Hi 👋, I'm Vinit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="coding" width="400" src="hhttps://wifflegif.com/gifs/364679-programming-processing-gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinitjangid&label=Profile%20views&color=0e75b6&style=flat" alt="vinitjangid" /> </p>
 
 - 🌱 I’m currently learning **NodeJS, tailwindCSS**
