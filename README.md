@@ -1,7 +1,7 @@
 ![Masterhead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Vinit Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif"/>
+<img align="right" alt="coding" width="200" src="https://64.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinitjangid&label=Profile%20views&color=0e75b6&style=flat" alt="vinitjangid" /> </p>
 
 - 🌱 I’m currently learning **NodeJS, tailwindCSS**
